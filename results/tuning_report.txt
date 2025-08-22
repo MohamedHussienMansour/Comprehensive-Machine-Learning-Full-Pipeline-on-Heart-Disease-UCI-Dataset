@@ -1,0 +1,6 @@
+RandomForest Randomized best params: {'max_depth': 19, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 11, 'n_estimators': 469}
+RandomForest Grid best params: {'max_depth': 19, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 11, 'n_estimators': 469}
+SVM Randomized best params: {'C': 0.36187233309596223, 'gamma': 0.012030178871154668}
+SVM Grid best params: {'C': 0.36187233309596223, 'gamma': 0.012030178871154668}
+Holdout ROC-AUC (macro-ovr) -> RF=0.8030, SVM=0.8318
+Selected final model: SVM

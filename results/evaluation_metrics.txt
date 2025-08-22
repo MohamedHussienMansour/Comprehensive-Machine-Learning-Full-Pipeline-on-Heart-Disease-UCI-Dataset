@@ -1,0 +1,5 @@
+             Model  Accuracy  Precision_macro  Recall_macro  F1_macro  Precision_weighted  Recall_weighted  F1_weighted  ROC_AUC_macro_ovr
+LogisticRegression  0.606557         0.355198      0.362771  0.357489            0.561719         0.606557     0.582123           0.798335
+           SVM_RBF  0.557377         0.197857      0.242424  0.217863            0.457904         0.557377     0.502744           0.789306
+      RandomForest  0.524590         0.156098      0.193939  0.172973            0.422231         0.524590     0.467878           0.764620
+      DecisionTree  0.459016         0.223333      0.228571  0.224615            0.460929         0.459016     0.458764           0.537896

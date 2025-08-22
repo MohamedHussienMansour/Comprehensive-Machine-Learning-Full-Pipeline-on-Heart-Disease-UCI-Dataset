@@ -1,0 +1,13 @@
+age
+ca
+chol
+cp
+exang
+fbs
+oldpeak
+restecg
+sex
+slope
+thal
+thalach
+trestbps
